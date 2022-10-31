@@ -1,0 +1,6 @@
+Flask
+Pillow
+scikit-image
+boto3
+wheel
+mod_wsgi
